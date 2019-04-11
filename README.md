@@ -183,7 +183,7 @@ You can check in your terminal the the Express application is listening in the P
 ## How to test your application functionality?
 
 To test your application I recommend you to use POSTMAN, this tool will help you to make the requests to the API.
-Always is useful to debug your code see what is happening in your algorithm, so I will let you this video for you to check on how to do it >https://www.youtube.com/watch?v=6cOsxaNC06c . Try always to debug your code to understand what you are doing.
+Always is useful to debug your code see what is happening in your algorithm, so I will let you this video for you to check on how to do it https://www.youtube.com/watch?v=6cOsxaNC06c . Try always to debug your code to understand what you are doing.
 
 1. Run your application using the command `node app.js`
 You should see in your terminal a message indicating that the server is listening in port 8000:
